@@ -3,7 +3,7 @@
 1. Tipos de dados e operadores aritméticos, lógicos e relacionais
    [x] 1. [Soma Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1003)
    [x] 2. [Diferença](https://www.beecrowd.com.br/judge/pt/problems/view/1007)
-   [ ] 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
+   [x] 3. [Área do círculo](https://www.beecrowd.com.br/judge/pt/problems/view/1002)
    [ ] 4. [Esfera](https://www.beecrowd.com.br/judge/pt/problems/view/1011)
    [ ] 5. [Média 2](https://www.beecrowd.com.br/judge/pt/problems/view/1006)
    [ ] 6. [Área](https://www.beecrowd.com.br/judge/pt/problems/view/1012)
