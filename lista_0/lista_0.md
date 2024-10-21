@@ -14,7 +14,7 @@
 
 2. Condicionais
    [x] 1. [Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)
-   [ ] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
+   [x] 2. [Múltiplos](https://www.beecrowd.com.br/judge/pt/problems/view/1044)
    [ ] 3. [Sedex](https://www.beecrowd.com.br/judge/pt/problems/view/2375)
    [ ] 4. [Intervalo](https://www.beecrowd.com.br/judge/pt/problems/view/1037)
    [ ] 5. [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
