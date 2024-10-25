@@ -1,4 +1,10 @@
 {
   "C_Cpp.errorSquiggles": "disabled",
-  "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+  "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+  "files.associations": {
+    ".fantomasignore": "ignore",
+    "*.ts": "typescript",
+    "*.js": "javascript",
+    "iostream": "cpp"
+  }
 }
