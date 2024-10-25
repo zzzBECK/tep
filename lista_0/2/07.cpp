@@ -5,7 +5,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    vector<int> num_list;
+    vector<int> num_list, sorted_list;
 
     for (int i = 0; i < 3; i++)
     {
@@ -14,16 +14,16 @@ int main(int argc, char const *argv[])
         num_list.push_back(value);
     }
 
-    sort(num_list.begin(), num_list.end());
+    sorted_list = num_list;
 
-    for (int i = 0; i < num_list.size(); i++)
+    sort(sorted_list.begin(), sorted_list.end());
+
+    for (int i = 0; i < sorted_list.size(); i++)
     {
-        cout << num_list[i] << "\n";
+        cout << sorted_list[i] << "\n";
     }
 
     cout << '\n';
-
-    sort(num_list.begin(), num_list.end(), greater<int>());
 
     for (int i = 0; i < num_list.size(); i++)
     {
